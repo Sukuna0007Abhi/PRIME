@@ -328,4 +328,3 @@ const UserProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => 
   );
 };
 
-export { UserContext, useAuthContext, UserProvider };
