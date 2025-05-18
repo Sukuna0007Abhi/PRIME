@@ -166,7 +166,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-- **Your Name** - [@yourusername](https://github.com/yourusername)
+- **Your Name** - [@Sukuna0007Abhi](https://github.com/Sukuna0007Abhi)
 
 ## 🙏 Acknowledgments
 
@@ -177,6 +177,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - appsonly310@gmail.com
 
-Project Link: [https://github.com/yourusername/prime](https://github.com/yourusername/prime)
+Project Link: [https://github.com/Sukuna0007Abhi/prime](https://github.com/Sukuna0007Abhi/prime)
