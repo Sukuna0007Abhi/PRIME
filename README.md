@@ -1,5 +1,4 @@
 # 🚀 PRIME - Project Management Application
-//Dayummm
 [![PRIME](https://img.shields.io/badge/PRIME-Project%20Management-blueviolet)](https://github.com/yourusername/prime)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
